@@ -34,6 +34,7 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 [APIs](#apis)
 [Real Time Stats](#real-time-stats)
 [Projects](#projects)
+[Utilities](#utilities)
 
 # Resources
 
@@ -176,6 +177,9 @@ Contributions welcome! Please read the [guide](https://github.com/dsmurrell/awes
 - [SecretCoin](https://secretco.in)
 - [Flowee](http://www.flowee.org)
 - [BitcoinRewards](https://www.bitcoinrewards.com)
+
+### Utilities
+- [pandacash-cli](https://www.npmjs.com/package/pandacash-cli)
 
 # Community
 
